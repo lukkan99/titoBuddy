@@ -1,0 +1,9 @@
+c:\users\tyler\documents\visual studio 2015\Projects\titoBuddy\titoBuddy\bin\Debug\titoBuddy.exe.config
+c:\users\tyler\documents\visual studio 2015\Projects\titoBuddy\titoBuddy\bin\Debug\titoBuddy.exe
+c:\users\tyler\documents\visual studio 2015\Projects\titoBuddy\titoBuddy\bin\Debug\titoBuddy.pdb
+c:\users\tyler\documents\visual studio 2015\Projects\titoBuddy\titoBuddy\obj\Debug\titoBuddy.csprojResolveAssemblyReference.cache
+c:\users\tyler\documents\visual studio 2015\Projects\titoBuddy\titoBuddy\obj\Debug\titoBuddy.Properties.Resources.resources
+c:\users\tyler\documents\visual studio 2015\Projects\titoBuddy\titoBuddy\obj\Debug\titoBuddy.csproj.GenerateResource.Cache
+c:\users\tyler\documents\visual studio 2015\Projects\titoBuddy\titoBuddy\obj\Debug\titoBuddy.exe
+c:\users\tyler\documents\visual studio 2015\Projects\titoBuddy\titoBuddy\obj\Debug\titoBuddy.pdb
+C:\Users\Tyler\documents\visual studio 2015\Projects\titoBuddy\titoBuddy\obj\Debug\titoBuddy.Form1.resources
